@@ -1,8 +1,36 @@
-# React + Vite
+<h1 align="center">🎮 Tic Tac Toe Game with React</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
+</p>
 
-Currently, two official plugins are available:
+<p align="center"><strong>
+  React yordamida yaratilgan oddiy Tic Tac Toe o‘yini — foydalanuvchilar X yoki O belgilari bilan o‘ynab, g‘alaba qozonish uchun uchta belgini bir qatorga qo‘yishga harakat qilishadi.
+</strong></p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ✨ Xususiyatlar
+
+- 🔲 Oddiy 3x3 o‘yin maydoni
+- ❌ X va O belgilarini o‘rnatish
+- 🏆 O‘yin tugagach g‘olibni ko‘rsatish
+- ♻️ O‘yin tugagach, qaytadan boshlash imkoniyati
+- 📱 Mobilga moslashtirilgan interfeys
+
+---
+
+## 🧰 Texnologiyalar
+
+- **React** – Interfeys yaratish
+- **JavaScript** – Asosiy dasturlash tili
+- **CSS** – Dizayn va uslublar
+
+---
+
+## 🚀 O‘rnatish
+
+1. Repository'ni klonlang:
+   ```bash
+   git clone https://github.com/the-ict/tic-tac-toe.git
